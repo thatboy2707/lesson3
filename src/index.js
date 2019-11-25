@@ -7,25 +7,14 @@
 // serviceWorker.unregister();
 
 import React from 'react';
-import ReactDOM from 'react-dom'
+import ReactDOM from 'react-dom';
 
-//
-// function Room() {
-//     return (
-//         <div className= "room"> the room is lit </div>);
-// }
-// ReactDOM.render (<Room />, document.getElementById('root'));
+function Room() {
+    return (
+        <div className={'room'}> the room is lit</div>
+    )
+}
+ReactDOM.render(<Room />, document.getElementById('root'));
 
-// class Room extends React.Component {
-//     state = {
-//         isLit: true
-//     }
-//     render() {
-//         return (
-//             <div className="room">the room is lit</div>
-//         );
-//     }
-// }
-// ReactDOM.render (<Room />, document.getElementById('root'));
 
 

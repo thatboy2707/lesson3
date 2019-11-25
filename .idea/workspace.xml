@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="511f8338-170e-47d1-b044-89719711a5a2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,11 +18,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="90">
+              <caret line="16" column="59" lean-forward="true" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-                <element signature="e#268#294#0" expanded="true" />
+                <element signature="e#267#293#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -42,8 +41,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="50" />
-    <option name="y" value="323" />
+    <option name="x" value="-17" />
+    <option name="y" value="387" />
     <option name="width" value="1440" />
     <option name="height" value="523" />
   </component>
@@ -119,24 +118,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574347053808</updated>
-      <workItem from="1574347054987" duration="15913000" />
+      <workItem from="1574347054987" duration="17270000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15913000" />
+    <option name="totallyTimeSpent" value="17270000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="50" y="323" width="1440" height="523" extended-state="0" />
+    <frame x="15" y="181" width="1440" height="523" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21987315" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21987315" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.16144578" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.4626506" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -176,11 +175,11 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="90">
+          <caret line="16" column="59" lean-forward="true" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="e#268#294#0" expanded="true" />
+            <element signature="e#267#293#0" expanded="true" />
           </folding>
         </state>
       </provider>
